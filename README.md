@@ -40,7 +40,7 @@ To run the portfolio locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/jerrietkuo/react-portfolio.git
+    git clone https://github.com/jerrietkuo/ReactPortfolio.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -77,6 +77,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 - **Name**: Jerriet Kuo
-- **Email**: your-email@example.com
-- **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [Gmail](mailto: jerrietkuo@gmail.com)
+- **GitHub**: [GitHub](https://github.com/jerrietkuo)
