@@ -77,5 +77,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 - **Name**: Jerriet Kuo
-- **Email**: [Gmail](mailto: jerrietkuo@gmail.com)
+- **Email**: [Gmail](mailto:jerrietkuo@gmail.com)
 - **GitHub**: [GitHub](https://github.com/jerrietkuo)
